@@ -102,7 +102,7 @@ public:
 
 int main() {
 
-    cout << "Assembly summary: " << endl;
+    cout << "Final computer assembly: " << endl;
 
     Device* videoCard = new VideoCard();
     Device* processor = new Processor();
